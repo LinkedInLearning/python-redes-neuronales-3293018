@@ -20,6 +20,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ## Docente
 Ana María Pinto
+Echa un vistazo a mis otros cursos en LinkedIn Learning[https://www.linkedin.com/learning/instructors/ana-maria-pinto].
 
 [0]: # ([Replace these placeholder URLs with actual course URLs](https://www.linkedin.com/learning/instructors/ana-maria-pinto))
 
