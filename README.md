@@ -32,7 +32,7 @@ Las ramas están estructuradas para corresponder a los capítulos del curso. La 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/python-entrena-redes-neuronales
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQE2avi3cM1FwA/learning-public-crop_675_1200/0/1720512722248?e=2147483647&v=beta&t=jS6Z6gT8nJaOUOZ7P-IHkZo1mdDjXCvkPSfarqt5_5k
 
 [1]: # (End of ES-Instruction ###############################################################################################)
